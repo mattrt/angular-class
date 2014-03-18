@@ -1,0 +1,25 @@
+
+.hero-row {
+  height:250px;
+  padding:20px;
+}
+
+ul.abilities {
+  padding:0;
+  margin:0;
+  list-style-type: none;
+}
+
+.alter-ego {
+  font-style: italic;;
+}
+
+.no-abilities {
+  color:#858585;
+  font-style: italic;
+}
+
+input[type=text] {
+  width:150px;
+  height:30px;
+}
